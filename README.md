@@ -1,30 +1,27 @@
 🎁 Amigo Secreto
 
-Aplicación web simple que permite organizar un sorteo de Amigo Secreto. Los usuarios pueden agregar nombres a una lista y luego realizar un sorteo aleatorio para determinar quién es el amigo secreto.
-
-🚀 Funcionalidades
-
-Agregar nombres: Los usuarios ingresan un nombre en el campo de texto y lo añaden a la lista.
-
-Validación de entrada: No permite campos vacíos.
-
-Visualización dinámica: Los nombres se muestran en una lista visible en la página.
-
-Sorteo aleatorio: Selecciona un nombre al azar de la lista y muestra el resultado en pantalla.
-
-📸 Capturas de pantalla
-Pantalla principal
-
-Lista con nombres añadidos
-
-Resultado del sorteo
-
-(Puedes reemplazar estas imágenes con tus propias capturas desde la carpeta assets/ de tu proyecto. Si prefieres, también puedes grabar un GIF o subir un video a YouTube y enlazarlo aquí.)
-
+  Aplicación web interactiva para organizar un sorteo de Amigo Secreto 🎉.
+  Los usuarios pueden agregar nombres de sus amigos, visualizarlos en una lista y realizar un sorteo aleatorio para descubrir quién es el afortunado.
+  
+✨ Funcionalidades
+  
+  ✅ Agregar nombres mediante un campo de texto y un botón.
+  ✅ Validación de entrada: no permite nombres vacíos.
+  ✅ Lista dinámica: cada nombre ingresado aparece inmediatamente en pantalla.
+  ✅ Sorteo aleatorio de un amigo secreto con un solo clic.
+  ✅ Interfaz accesible y moderna con HTML, CSS y JavaScript puro.
+  
+📸 Vista previa
+  📍 Pantalla principal
+  <img src="assets/captura1.png" alt="Pantalla principal" width="600">
+📝 Lista con nombres añadidos
+  <img src="assets/captura2.png" alt="Lista de amigos" width="600">
+🎉 Resultado del sorteo
+  <img src="assets/captura3.png" alt="Resultado del sorteo" width="600">
+  
 🛠️ Tecnologías utilizadas
-
-HTML5
-
-CSS3
-
-JavaScript (DOM y Math.random)
+  🌐 HTML5 – estructura del proyecto.
+  
+  🎨 CSS3 – estilos y diseño.
+  
+  ⚡ JavaScript (ES6) – lógica del sorteo y manipulación del DOM.          
